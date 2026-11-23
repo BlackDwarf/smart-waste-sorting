@@ -11,6 +11,5 @@ venv/
 .DS_Store
 Thumbs.db
 
-# 本地截图 / 渲染 / 构建日志，不参与提交
+# local artifacts (screenshots, render output, build logs)
 out/
-.dsh-office-*/
